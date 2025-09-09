@@ -1,0 +1,25 @@
+# Dependencies (npm installs)
+node_modules/
+package-lock.json  # Or yarn.lock if using Yarn
+
+# Build outputs
+dist/
+build/
+src/output.css  # If you don't want to commit generated CSS (but commit for ALX submission)
+
+# Logs and temp files
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor files (VS Code, etc.)
+.vscode/
+*.swp
+*.swo
+
+# ALX module-specific (if needed)
+0x02-tailwind-css/src/output.css  # Generated; regenerate with CLI
