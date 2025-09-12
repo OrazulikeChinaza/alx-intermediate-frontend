@@ -1,0 +1,4 @@
+# 0-installation-script
+1. Installed Node.js version 20.16 using nvm.
+2. Installed sass version 3.7.4 using npm with the command:
+   npm install sass@3.7.4
